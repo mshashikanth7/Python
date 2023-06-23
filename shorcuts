@@ -1,0 +1,38 @@
+Jupyter Notebook provides several shortcuts that can improve your productivity when working with Python code. Here are some commonly used shortcuts:
+
+Command Mode Shortcuts (press Esc to enter Command Mode):
+
+A: insert a cell above the current cell
+B: insert a cell below the current cell
+M: change the current cell type to Markdown
+Y: change the current cell type to code
+D, D (press D twice): delete the current cell
+Z: undo cell deletion
+Shift + Enter: run the current cell and select the cell below
+Ctrl + Enter: run the current cell and keep the current cell selected
+Edit Mode Shortcuts (press Enter to enter Edit Mode):
+
+Ctrl + /: comment/uncomment a selected line or block of code
+Tab: code completion or indent selection
+Shift + Tab: tooltip with function/method signature and documentation
+Ctrl + ]: indent the selected lines
+Ctrl + [: dedent the selected lines
+Ctrl + A: select all the code in the current cell
+Ctrl + Z: undo
+Ctrl + Y: redo
+Other Useful Shortcuts (in Command or Edit Mode):
+
+0, 0 (press 0 twice): restart the kernel
+Shift + Tab (when a function/method is selected): show the documentation in a tooltip
+Ctrl + S: save the notebook
+Enter: enter Edit Mode for the selected cell
+Esc: enter Command Mode
+H: show the list of all available shortcuts and the command palette
+These are just a few of the shortcuts available in Jupyter Notebook. You can also customize or add your own shortcuts using Jupyter's keyboard shortcuts editor. To access it, go to "Help" in the menu bar and select "Edit Keyboard Shortcuts."
+
+Note: Some shortcuts may vary depending on your operating system and Jupyter Notebook configuration.
+
+
+
+
+
